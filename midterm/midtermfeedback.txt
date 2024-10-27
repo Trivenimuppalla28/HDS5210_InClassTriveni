@@ -1,0 +1,2 @@
+Your risk calculation returns a string. Very difficult to average.
+Your DYSPNEA mapping is incorrect and will not return a 0 point value.
